@@ -129,3 +129,15 @@ Describe benefits of becoming AWS Certified
 
 ## Course Final Assessment
 Solve questions similar to those found within the AWS Cloud Practitioner Certification examination
+
+##  AWS Cloud Practitioner Essentials 簡介
+
+```bash
+在單元 1 到 10 中，您可了解 AWS 雲端概念、AWS 服務、安全、架構、定價和支援功能，藉此掌握 AWS 雲端相關知識。 
+
+每個單元的課程都包含影片、支援資訊，以及可進一步了解 AWS 服務的其他資源連結。
+您可透過知識檢測來檢視自己對每個單元所涵蓋重要概念的認識。回答每個問題後，請檢閱答案詳細說明和外部連結，加強您對相關概念的理解。
+在最後的單元 11 中，您將了解 AWS Certified Cloud Practitioner 考試的結構。您也能複習相關策略，以便幫助您提高通過考試的機率。
+
+最後，完成 30 題評量後，課程便結束。
+```
