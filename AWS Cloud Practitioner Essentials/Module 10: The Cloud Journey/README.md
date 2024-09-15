@@ -4,5 +4,6 @@
 ### In this module, you will learn how to: 
 ### 在本單元中，您將學到如何：
 ```bash
-
+Summarize the six pillars of the Well-Architected Framework.  
+Explain the six benefits of cloud computing.
 ```
