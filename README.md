@@ -1,1 +1,2 @@
-# AWS-Training-Certification
+# AWS Training & Certification
+
