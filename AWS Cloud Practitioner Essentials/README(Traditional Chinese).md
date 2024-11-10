@@ -69,7 +69,7 @@ AWS Academy 學員
 彙總其他 AWS 運算選項
 
 
-單元 3：全球基礎結構與可靠性
+## 單元 3：全球基礎結構與可靠性
 
 彙總 AWS 全球基礎結構的優勢
 說明可用區域的基本概念
@@ -77,7 +77,7 @@ AWS Academy 學員
 比較佈建 AWS 服務的不同方法
 
 
-單元 4：網路功能
+## 單元 4：網路功能
 
 說明網路的基本概念
 說明公用與私人網路資源之間的差異
@@ -89,7 +89,7 @@ AWS Academy 學員
 說明哪些服務將用於與 AWS 全球網路互動
 
 
-單元 5：儲存和資料庫
+## 單元 5：儲存和資料庫
 
 彙總儲存與資料庫的基本概念
 說明 Amazon Elastic Block Store (Amazon EBS) 的優勢
@@ -101,7 +101,7 @@ AWS Academy 學員
 彙總多種資料庫服務
 
 
-單元 6：安全性
+## 單元 6：安全性
 
 說明共同責任模型的優勢
 說明多重因素驗證 (MFA)
@@ -112,7 +112,7 @@ AWS Academy 學員
 說明基本層級的主要 AWS 安全服務
 
 
-單元 7：監控和分析
+## 單元 7：監控和分析
 
 彙總監控 AWS 環境的方法
 說明 Amazon CloudWatch 的優勢
@@ -120,7 +120,7 @@ AWS Academy 學員
 說明 AWS Trusted Advisor 的優勢
 
 
-單元 8：定價和支援
+## 單元 8：定價和支援
 
 了解 AWS 定價和支援模式
 說明 AWS 免費方案
@@ -132,7 +132,7 @@ AWS Academy 學員
 說明 AWS Marketplace 的優勢
 
 
-單元 9：遷移和創新
+## 單元 9：遷移和創新
 
 瞭解 AWS 雲端中的遷移和創新
 彙總 AWS 雲端採用架構 (AWS CAF)
@@ -141,13 +141,13 @@ AWS Academy 學員
 彙總 AWS 提供的廣泛創新解決方案範圍
 
 
-單元 10：雲端之旅
+## 單元 10：雲端之旅
 
 彙總 AWS Well-Architected Framework 的六大支柱
 說明雲端運算的六大優勢
 
 
-單元 11：AWS Certified Cloud Practitioner 基本知識
+## 單元 11：AWS Certified Cloud Practitioner 基本知識
 
 判斷準備 AWS Certified Cloud Practitioner 考試的資源
 說明獲得 AWS 認證的優勢
