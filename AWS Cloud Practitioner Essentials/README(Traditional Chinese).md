@@ -1,6 +1,18 @@
 # AWS-Training-Certification 
 # AWS Cloud Practitioner Essentials (Traditional Chinese)
 
+##  AWS Cloud Practitioner Essentials 簡介
+
+```bash
+在單元 1 到 10 中，您可了解 AWS 雲端概念、AWS 服務、安全、架構、定價和支援功能，藉此掌握 AWS 雲端相關知識。 
+
+每個單元的課程都包含影片、支援資訊，以及可進一步了解 AWS 服務的其他資源連結。
+您可透過知識檢測來檢視自己對每個單元所涵蓋重要概念的認識。回答每個問題後，請檢閱答案詳細說明和外部連結，加強您對相關概念的理解。
+在最後的單元 11 中，您將了解 AWS Certified Cloud Practitioner 考試的結構。您也能複習相關策略，以便幫助您提高通過考試的機率。
+
+最後，完成 30 題評量後，課程便結束。
+```
+
 Course description
 本課程適合想全盤了解 Amazon Web Services (AWS) 雲端的人員，不限於特定技術角色。您將了解 AWS Cloud 概念、AWS 服務、安全性、架構、定價和支援，累積您的 AWS Cloud 知識。本課程也可協助您準備 AWS Certified Cloud Practitioner 考試。
 
@@ -153,6 +165,6 @@ AWS Academy 學員
 說明獲得 AWS 認證的優勢
 
 
-課程最終評定
+## 課程最終評定
 
 解決與 AWS Cloud Practitioner Certification 考試中類似的問題
